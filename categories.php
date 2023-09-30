@@ -84,7 +84,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Food Wars</a></span>                                                
+                                                <span class="cat"><a href="#">Food Wars</a></span> 
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                           
                                             </div>
                                             
                                             <h2><a href="#"></a>Furikake Rice</h2>                                            
@@ -107,7 +113,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Howl’s Moving Castle</a></span>                                                
+                                                <span class="cat"><a href="#">Howl’s Moving Castle</a></span>  
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                               
                                             </div>
                                             <h2><a href="#"></a>Howl’s Breakfast</h2>                                            
                                             <div class="buttons">
@@ -129,7 +141,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Yuri!!! on ICE</a></span>                                                
+                                                <span class="cat"><a href="#">Yuri!!! on ICE</a></span>
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                                 
                                             </div>
                                             <h2><a href="#"></a>Pork Katsudon</h2>                                            
                                             <div class="buttons">
@@ -151,7 +169,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Beastars </a></span>                                                
+                                                <span class="cat"><a href="#">Beastars </a></span>
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                               
                                             </div>
                                             <h2><a href="#"></a>Yakisoba</h2>                                            
                                             <div class="buttons">
@@ -173,7 +197,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Food Wars</a></span>                                                
+                                                <span class="cat"><a href="#">Food Wars</a></span> 
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                                
                                             </div>
                                             <h2><a href="#"></a>Curry “Risotto” Omurice</h2>                                            
                                             <div class="buttons">
@@ -195,7 +225,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">One Piece</a></span>                                                
+                                                <span class="cat"><a href="#">One Piece</a></span> 
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                                
                                             </div>
                                             <h2><a href="#"></a> Chicken Drumsticks</h2>                                            
                                             <div class="buttons">
@@ -226,6 +262,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Ponyo</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Ham Ramen</h2>                                            
                                             <div class="buttons">
@@ -247,6 +289,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Ichiraku Ramen</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Ichiraku Ramen</h2>                                            
                                             <div class="buttons">
@@ -269,6 +317,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Dr. stone</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Foxtail Millet Ramen</h2>                                            
                                             <div class="buttons">
@@ -299,6 +353,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Spirited Away</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Steamed Red Bean Bun</h2>                                            
                                             <div class="buttons">
@@ -321,6 +381,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Demon Slayer</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Sakura Mochi</h2>                                            
                                             <div class="buttons">
@@ -343,6 +409,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Doraemon</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Dorayaki</h2>                                            
                                             <div class="buttons">
@@ -365,6 +437,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Black Butler</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Chocolate Curry Buns</h2>                                            
                                             <div class="buttons">
@@ -387,6 +465,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Charlotte</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Katsu Sandwich</h2>                                            
                                             <div class="buttons">
@@ -409,6 +493,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Demon Slayer</a></span>                                                
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="rating">
+                                                    <i class="ri-star-fill"></i>
+                                                    <span>4.9</span>
+                                                </span>    
+<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Mitarashi dango</h2>                                            
                                             <div class="buttons">
