@@ -23,9 +23,9 @@
                         <div class="logo"><a href="#">Kyourin</a></div>
                         <div class="menu">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="categories.html">Category</a></li>
-                                <li><a href="favorites.html">Favorites</a></li>
+                              <li><a href="index.php">Home</a></li>
+                                <li><a href="categories.php">Category</a></li>
+                                <li><a href="favorites.php">Favorites</a></li>
                             </ul>
                         </div>
                     </div>
@@ -74,8 +74,9 @@
 <!-- =============================================CATEGORIES CONTENTS============================================= -->
                             <!-- MAIN DISH -->
                             <div class="item swiper-slide">
-                                <ul>                                
-                                    <div class="containerProdsCat ">
+                                <ul>
+                                    
+                                    <div class="containerProds1 common-class"> 
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-1" href="assets/products/baked1.jpg">                                                
@@ -89,16 +90,16 @@
                                             
                                             <h2><a href="#"></a>Furikake Rice</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-1.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton1"></i>                                                    
-                                                </a>                                            
-                                          </div>
+                                                <a href="recipes/food-1.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line" id="toggleButton"></i>
+                                                </a>
+                                            </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">
+                                <div class="containerProds2 common-class"> 
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-1" href="assets/products/baked2.jpg">                                                
@@ -111,16 +112,16 @@
                                             </div>
                                             <h2><a href="#"></a>Howl’s Breakfast</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-7.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton2"></i>                                                    
-                                                </a>            
+                                                <a href="recipes/food-7.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">                                
+                                <div class="containerProds3 common-class">                               
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-1" href="assets/products/baked3.jpg">                                                
@@ -133,16 +134,16 @@
                                             </div>
                                             <h2><a href="#"></a>Pork Katsudon</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-9.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton3"></i>                                                    
-                                                </a>    
+                                                <a href="recipes/food-9.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">                              
+                                <div class="containerProds4 common-class">                             
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-1" href="assets/products/baked4.jpg">                                                
@@ -155,16 +156,16 @@
                                             </div>
                                             <h2><a href="#"></a>Yakisoba</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-12.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton4"></i>                                                    
-                                                </a>    
+                                                <a href="recipes/food-12.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">                            
+                                <div class="containerProds5 common-class">                     
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-1" href="assets/products/baked5.jpg">                                                
@@ -177,16 +178,16 @@
                                             </div>
                                             <h2><a href="#"></a>Curry “Risotto” Omurice</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-1.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton5"></i>                                                    
-                                                </a>    
+                                                <a href="recipes/food-1.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">                           
+                                <div class="containerProds6 common-class">                           
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-1" href="assets/products/baked6.jpg">                                                
@@ -199,15 +200,15 @@
                                             </div>
                                             <h2><a href="#"></a> Chicken Drumsticks</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-1.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton6"></i>                                                    
-                                                </a>     
+                                                <a href="recipes/food-1.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
-                                
+
                                    
                                 </ul>
                             </div>
@@ -216,7 +217,7 @@
                             <!-- RAMEN -->
                             <div class="item swiper-slide">
                                 <ul>
-                                    <div class="containerProdsCat">
+                                    <div class="containerProds7 common-class">
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-2" href="assets/products/baked7.jpg">                                                
@@ -229,15 +230,16 @@
                                             </div>
                                             <h2><a href="#"></a>Ham Ramen</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-3.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton7"></i>                                                    
+                                                <a href="recipes/food-3.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
-                                <div class="containerProdsCat">
+
+                                <div class="containerProds8 common-class">
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-2" href="assets/products/baked8.jpg">                                                
@@ -250,16 +252,16 @@
                                             </div>
                                             <h2><a href="#"></a>Ichiraku Ramen</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-4.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton8"></i>                                                    
+                                                <a href="recipes/food-4.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">
+                                <div class="containerProds9 common-class">
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-2" href="assets/products/baked9.jpg">                                                
@@ -272,9 +274,9 @@
                                             </div>
                                             <h2><a href="#"></a>Foxtail Millet Ramen</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-3.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton9"></i>                                                    
+                                                <a href="recipes/food-3.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -289,7 +291,7 @@
                              <div class="item swiper-slide">
                                 <ul>
 
-                                    <div class="containerProdsCat">
+                                    <div class="containerProds10 common-class">
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-3" href="assets/products/garnish1.jpg">                                                
@@ -302,16 +304,16 @@
                                             </div>
                                             <h2><a href="#"></a>Steamed Red Bean Bun</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-2.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton10"></i>                                                    
+                                                <a href="recipes/food-2.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
                                 
-                                <div class="containerProdsCat">
+                                <div class="containerProds11 common-class">
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-3" href="assets/products/garnish2.jpg">                                                
@@ -324,16 +326,16 @@
                                             </div>
                                             <h2><a href="#"></a>Sakura Mochi</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-5.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton11"></i>                                                    
+                                                <a href="recipes/food-5.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">
+                                <div class="containerProds12 common-class">
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-3" href="assets/products/garnish3.jpg">                                                
@@ -346,16 +348,16 @@
                                             </div>
                                             <h2><a href="#"></a>Dorayaki</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-6.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton12"></i>                                                    
+                                                <a href="recipes/food-6.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">
+                                <div class="containerProds13 common-class">
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-3" href="assets/products/garnish4.jpg">                                                
@@ -368,16 +370,16 @@
                                             </div>
                                             <h2><a href="#"></a>Chocolate Curry Buns</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-8.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton13"></i>                                                    
+                                                <a href="recipes/food-8.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">                    
+                                <div class="containerProds14 common-class">                    
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-3" href="assets/products/garnish5.jpg">                                                
@@ -390,16 +392,16 @@
                                             </div>
                                             <h2><a href="#"></a>Katsu Sandwich</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-10.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton14"></i>                                                    
+                                                <a href="recipes/food-10.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
                                     </li>
                                 </div>
 
-                                <div class="containerProdsCat">                  
+                                <div class="containerProds15 common-class">                  
                                     <li>
                                         <div class="thumbnail covering">
                                             <a class="gal-3" href="assets/products/garnish6.jpg">                                                
@@ -412,9 +414,9 @@
                                             </div>
                                             <h2><a href="#"></a>Mitarashi dango</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-11.html"><button class="catBtn">View Recipe</button></a>
-                                                <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton15"></i>                                                    
+                                                <a href="recipes/food-11.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="#" class="like">
+                                                    <i class="ri-heart-line"></i>
                                                 </a>
                                             </div>
                                         </div>
@@ -455,10 +457,10 @@
                     <div class="widget-footer">
                         <h4>Discover</h4>
                         <ul>
-                            <li><a href="../index.html">Homepage</a></li>
-                            <li><a href="../about.html">About Us</a></li>
-                            <li><a href="../categories.html">Category</a></li>                            
-                            <li><a href="../favorites.html">Favorites</a></li>
+                            <li><a href="../index.php">Homepage</a></li>
+                            <li><a href="../about.php">About Us</a></li>
+                            <li><a href="../categories.php">Category</a></li>                            
+                            <li><a href="../favorites.php">Favorites</a></li>
                         </ul>
                     </div>
                     <div class="widget-footer">
@@ -481,7 +483,7 @@
     </div>
     <div class="overlay"></div>
 
-    <script src="favesBtn.js"></script>
+    <script src="favorites.js"></script>
     <script src="simplelightbox-master/dist/simple-lightbox.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <script src="script.js"></script>

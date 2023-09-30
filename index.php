@@ -21,9 +21,9 @@
                         <div class="logo"><a href="#">Kyourin</a></div>
                         <div class="menu">
                             <ul>
-                                <li><a href="index.html">Home</a></li>
-                                <li><a href="categories.html">Category</a></li> 
-                                <li><a href="favorites.html">Favorites</a></li>
+                                <li><a href="index.php">Home</a></li>
+                                <li><a href="categories.php">Category</a></li>
+                                <li><a href="favorites.php">Favorites</a></li>
                             </ul>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
 
                                         <div class="tags link-slide">
                                             <span>Howl's Breakfast</span>
-                                            <a href="recipes/food-7.html">View Recipe</a>
+                                            <a href="recipes/food-7.php">View Recipe</a>
                                         </div>
 
                                         <div class="image"> <img src="assets/slider/food1.png" alt=""></div>
@@ -73,7 +73,7 @@
                                         
                                         <div class="tags link-slide">
                                             <span>Ichiraku Ramen</span>
-                                            <a href="recipes/food-4.html">View Recipe</a>
+                                            <a href="recipes/food-4.php">View Recipe</a>
                                         </div>
 
                                         <div class="image"> <img src="assets/slider/food2.png" alt=""></div>
@@ -86,7 +86,7 @@
 
                                         <div class="tags link-slide">
                                             <span>Steamed Red Bean Bun</span>
-                                            <a href="recipes/food-2.html">View Recipe</a>
+                                            <a href="recipes/food-2.php">View Recipe</a>
                                         </div>
 
                                         <div class="image"> <img src="assets/slider/food3.png" alt=""></div>
@@ -288,10 +288,10 @@
                     <div class="widget-footer">
                         <h4>Discover</h4>
                         <ul>
-                            <li><a href="../index.html">Homepage</a></li>
-                            <li><a href="../about.html">About Us</a></li>
-                            <li><a href="../categories.html">Category</a></li>                            
-                            <li><a href="../favorites.html">Favorites</a></li>
+                            <li><a href="../index.php">Homepage</a></li>
+                            <li><a href="../about.php">About Us</a></li>
+                            <li><a href="../categories.php">Category</a></li>                            
+                            <li><a href="../favorites.php">Favorites</a></li>
                         </ul>
                     </div>
                     <div class="widget-footer">

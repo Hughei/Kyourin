@@ -22,9 +22,8 @@
                         <div class="logo"><a href="#">Kyourin</a></div>
                         <div class="menu">
                             <ul>
-                                <li><a href="../index.html">Home</a></li>
-                                <li><a href="../categories.html">Category</a></li>
-                                <li><a href="#">About Us</a></li>
+                                <li><a href="../index.php">Home</a></li>
+                                <li><a href="../categories.php">Category</a></li>
                             </ul>
                         </div>
                     </div>
@@ -197,10 +196,10 @@
         <div class="widget-footer">
             <h4>Discover</h4>
             <ul>
-                <li><a href="../index.html">Homepage</a></li>
-                <li><a href="../about.html">About Us</a></li>
-                <li><a href="../categories.html">Category</a></li>                            
-                <li><a href="../favorites.html">Favorites</a></li>
+                <li><a href="../index.php">Homepage</a></li>
+                <li><a href="../about.php">About Us</a></li>
+                <li><a href="../categories.php">Category</a></li>                            
+                <li><a href="../favorites.php">Favorites</a></li>
             </ul>
         </div>
         <div class="widget-footer">

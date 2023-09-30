@@ -22,9 +22,8 @@
                         <div class="logo"><a href="#">Kyourin</a></div>
                         <div class="menu">
                             <ul>
-                                <li><a href="../index.html">Home</a></li>
-                                <li><a href="../categories.html">Category</a></li>
-                                <li><a href="#">About Us</a></li>
+                                <li><a href="../index.php">Home</a></li>
+                                <li><a href="../categories.php">Category</a></li>
                             </ul>
                         </div>
                     </div>
@@ -34,7 +33,6 @@
                                 <i class="ri-search-line"></i>
                                 <i class="ri-close-line"></i>
                             </a>
-                           
                             <a href="#" class="m-trigger mobile-only">
                                 <i class="ri-menu-line"></i>
                             </a>
@@ -52,7 +50,7 @@
 
         <main>
             <!-- ===================CHANGE HERO NUMBER FOR EVERY NEW PAGE============================== -->
-            <div class="hero-5">
+            <div class="hero-9">
                 <div class="container">
                     <div class="tabbed has-bg">
                         <div class="container">
@@ -75,44 +73,64 @@
                                         <ul>
                                             <li>                                        
                                                 <div class="thumbnail covering">
-                                                    <a class="gal-5" href="../assets/products/peanut1.jpg">                                                
-                                                        <img src="../assets/products/peanut1.jpg" alt="gallery image">                                                                                                     
+                                                    <a class="gal-5" href="assets/products/peanut1.jpg">                                                
+                                                        <img src="assets/products/peanut1.jpg" alt="gallery image">                                                                                                     
                                                     </a>
                                                 </div>
                                                 <div class="meta">                                           
-                                                    <h3>Sakura Mochi</h3>
-                                                    <h4>Demon Slayer</h4>
+                                                    <h3> Pork Katsudon</h3>
+                                                    <h4>Yuri!!! on ICE</h4>
                                                     <div class="price">
                                                         <strong class="current">
-                                                            Sakura mochi, which consists of sweet pink rice with the patented red bean paste filling that's wrapped up in a cherry blossom leaf. Mitsuri Kanjori from Demon Slayer takes her obsession with this dessert to new heights. 
-                                                            Apparently, the reason her hair is pink is that she eats a ton of sakura mochi, which is just the  most ridiculous fact ever.
+                                                            This food is just basically a pork chop breaded with panko and fried, paired with rice, onion, and egg. Though this recipe is very common and can be seen in different anime, 
+                                                            Yuri!!! On ICE used this food as the motivation and inspiration for the main character which made it interesting and fun.
                                                         </strong>
 
                                                         <div class="ing">                                                        
                                                             
                                                             <ul>
                                                                 <strong class="ingBold">Ingredients:</strong>
-                                                                <li>• 1 ½ - 2 cups water</li>                                                                </li>
-                                                                <li>• Red food coloring</li>
-                                                                <li>• 300 g mochigome sweet rice</li>
-                                                                <li>• 1 cup red bean paste</li>                                                                
-                                                            </ul>  
+                                                                <li>• 1 slice of pork loin</li>
+                                                                <li>• Salt</li>
+                                                                <li>• Pepper</li>
+                                                                <li>• 2 tbsp of fish sauce</li>
+                                                                <li>• Flour for dusting</li>
+                                                                <li>• 1 tbsp of water</li>
+                                                                <li>• ½ cup of panko bread crumbs</li>
+                                                                <li>• 50 ml of water</li>
+                                                                <li>• 1 tbsp of soy sauce</li>
+                                                                <li>• 1 tbsp of mirin</li>
+                                                                <li>• ¼ of dashi stock</li>
+                                                                <li>• ⅓ an onion</li>
+                                                                <li>• 2 eggs</li>
+                                                                <li>• 1 cup of cooked rice</li>
+                                                                <li>• Cooked peas (optional)</li>
+                                                            </ul>
 
                                                             <ul>
                                                                 <strong class="ingBold">Directions:</strong>
-                                                                <li>1. Thoroughly wash your rice.</li>
-                                                                <li>2. Mix water with 1-2 drops of food coloring.</li>
-                                                                <li>3. Mix your mochigome with the colored water in a rice cooker and cook.</li>
-                                                                <li>4. Stir up your mix to make sure it's combined properly and fill with additional water as needed. (The water should come above the rice level.)</li>
-                                                                <li>5. Let the rice soak for about sixty minutes and then cook.</li>
-                                                                <li>6. Mash your cooked rice into paste and let it cool down.</li>
-                                                                <li>7. Split your red bean paste into 12 rolled balls.</li>
-                                                                <li>8. Slowly begin taking 1/4 cup of rice and slowly rolling them each scoop around your red bean paste balls.</li>
-                                                                <li>9. Use plastic wrap to seal and form an oval shape with your ball.</li>
+                                                                <li><u class="ingUnder">Pork loin</u></li>
+                                                                <li>1. Make small cuts on the pork loin.</li>
+                                                                <li>2. Season the pork loin with salt and pepper on both sides.</li>
+                                                                <li>3. Coat the pork loin in flour on both sides.</li>
+                                                                <li>4. Whisk 1 egg and 1 tbsp of water and mix well. Coat the floured pork loin with the egg mixture. </li>
+                                                                <li>5. Coat the pork loin with panko bread crumbs and set aside.</li>
+                                                                <li>6. Heat oil in a saucepan or a deep fryer till the oil bubbles. Submerge the pork loin into the oil and fry till golden brown.</li>
+                                                                <li>7. Set the pork loin aside and use paper towels to soak excess oil.</li>
+                                                                <li>8. Cut the pork loin into slices.</li>
+                                                                <li>&nbsp;</li>
+                                                                <li><u class="ingUnder">Pork loin</u></li>
+                                                                <li>1. Slice the onion thinly.</li>
+                                                                <li>2. Add soy sauce, sugar, mirin, and dashi stock into a pan on medium heat. Mix well till everything is dissolved.</li>
+                                                                <li>3. Add sliced onion and lower the heat to a simmer. Cook for 5 minutes or till the onion is translucent.</li>
+                                                                <li>4. Crack an egg and whisk it in a bowl. </li>
+                                                                <li>5. Place the pork loin atop the onion and pour the beaten egg in.</li>
+                                                                <li>6. Cover the pan with a lid for less than 1 minute.</li>
+                                                                <li>7. Add cooked peas and serve it with a bowl of rice. (Optional)</li>
 
                                                             </ul>                                                           
 
-                                                            
+                                                           
                                                         </div>
 
                                                                                                                 
@@ -154,10 +172,10 @@
                     <div class="widget-footer">
                         <h4>Discover</h4>
                         <ul>
-                            <li><a href="../index.html">Homepage</a></li>
-                            <li><a href="../about.html">About Us</a></li>
-                            <li><a href="../categories.html">Category</a></li>                            
-                            <li><a href="../favorites.html">Favorites</a></li>
+                            <li><a href="../index.php">Homepage</a></li>
+                            <li><a href="../about.php">About Us</a></li>
+                            <li><a href="../categories.php">Category</a></li>                            
+                            <li><a href="../favorites.php">Favorites</a></li>
                         </ul>
                     </div>
                     <div class="widget-footer">

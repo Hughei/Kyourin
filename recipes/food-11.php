@@ -22,9 +22,8 @@
                         <div class="logo"><a href="#">Kyourin</a></div>
                         <div class="menu">
                             <ul>
-                                <li><a href="../index.html">Home</a></li>
-                                <li><a href="../categories.html">Category</a></li>
-                                <li><a href="#">About Us</a></li>
+                                <li><a href="../index.php">Home</a></li>
+                                <li><a href="../categories.php">Category</a></li>
                             </ul>
                         </div>
                     </div>
@@ -51,7 +50,7 @@
 
         <main>
             <!-- ===================CHANGE HERO NUMBER FOR EVERY NEW PAGE============================== -->
-            <div class="hero-9">
+            <div class="hero-11">
                 <div class="container">
                     <div class="tabbed has-bg">
                         <div class="container">
@@ -79,55 +78,46 @@
                                                     </a>
                                                 </div>
                                                 <div class="meta">                                           
-                                                    <h3> Pork Katsudon</h3>
-                                                    <h4>Yuri!!! on ICE</h4>
+                                                    <h3>Mitarashi dango</h3>
+                                                    <h4> Demon Slayer</h4>                                                    
                                                     <div class="price">
                                                         <strong class="current">
-                                                            This food is just basically a pork chop breaded with panko and fried, paired with rice, onion, and egg. Though this recipe is very common and can be seen in different anime, 
-                                                            Yuri!!! On ICE used this food as the motivation and inspiration for the main character which made it interesting and fun.
+                                                            Mitarashi dango are traditional Japanese rice flour dumplings that are skewered onto sticks in groups of 3–5 and are covered with a sweet soy sauce glaze. 
+                                                            It is characterized by its glassy glaze and burnt fragrance.
                                                         </strong>
 
                                                         <div class="ing">                                                        
                                                             
                                                             <ul>
-                                                                <strong class="ingBold">Ingredients:</strong>
-                                                                <li>• 1 slice of pork loin</li>
-                                                                <li>• Salt</li>
-                                                                <li>• Pepper</li>
-                                                                <li>• 2 tbsp of fish sauce</li>
-                                                                <li>• Flour for dusting</li>
-                                                                <li>• 1 tbsp of water</li>
-                                                                <li>• ½ cup of panko bread crumbs</li>
-                                                                <li>• 50 ml of water</li>
-                                                                <li>• 1 tbsp of soy sauce</li>
-                                                                <li>• 1 tbsp of mirin</li>
-                                                                <li>• ¼ of dashi stock</li>
-                                                                <li>• ⅓ an onion</li>
-                                                                <li>• 2 eggs</li>
-                                                                <li>• 1 cup of cooked rice</li>
-                                                                <li>• Cooked peas (optional)</li>
+                                                                <strong class="ingBold">Ingredients:</strong>                                                                
+                                                                <li><u class="ingUnder">Wrapper:</u></li>
+                                                                <li>• 1 cup Rice flour/joshinko</li>
+                                                                <li>• 1 cup Rice flour/shiratamako</li>
+                                                                <li>• Water</li>
+                                                                <li>&nbsp</li>
+                                                                <li><u class="ingUnder">Mitarashi sauce</u></li>
+                                                                <li>• 2 teaspoon Mirin</li>
+                                                                <li>• Water</li>
+                                                                <li>• 4 teaspoon Potato starch</li>
+                                                                <li>• 4 teaspoon Sugar</li>
+                                                                
                                                             </ul>
 
                                                             <ul>
-                                                                <strong class="ingBold">Directions:</strong>
-                                                                <li><u class="ingUnder">Pork loin</u></li>
-                                                                <li>1. Make small cuts on the pork loin.</li>
-                                                                <li>2. Season the pork loin with salt and pepper on both sides.</li>
-                                                                <li>3. Coat the pork loin in flour on both sides.</li>
-                                                                <li>4. Whisk 1 egg and 1 tbsp of water and mix well. Coat the floured pork loin with the egg mixture. </li>
-                                                                <li>5. Coat the pork loin with panko bread crumbs and set aside.</li>
-                                                                <li>6. Heat oil in a saucepan or a deep fryer till the oil bubbles. Submerge the pork loin into the oil and fry till golden brown.</li>
-                                                                <li>7. Set the pork loin aside and use paper towels to soak excess oil.</li>
-                                                                <li>8. Cut the pork loin into slices.</li>
-                                                                <li>&nbsp;</li>
-                                                                <li><u class="ingUnder">Pork loin</u></li>
-                                                                <li>1. Slice the onion thinly.</li>
-                                                                <li>2. Add soy sauce, sugar, mirin, and dashi stock into a pan on medium heat. Mix well till everything is dissolved.</li>
-                                                                <li>3. Add sliced onion and lower the heat to a simmer. Cook for 5 minutes or till the onion is translucent.</li>
-                                                                <li>4. Crack an egg and whisk it in a bowl. </li>
-                                                                <li>5. Place the pork loin atop the onion and pour the beaten egg in.</li>
-                                                                <li>6. Cover the pan with a lid for less than 1 minute.</li>
-                                                                <li>7. Add cooked peas and serve it with a bowl of rice. (Optional)</li>
+                                                                <strong class="ingBold">Directions:</strong>                                                                
+                                                                <li><u class="ingUnder">Dango</u></li>
+                                                                <li>1. Add a 1 cup of joshinko</li>
+                                                                <li>2. 1 cup of shiratamako</li>
+                                                                <li>3. Add a water base in your like consistency</li>
+                                                                <li>4. Mix it and set it aside</li>
+                                                                <li>5. And cook in boiling water</li>
+                                                                <li>&nbsp</li>
+                                                                <li><u class="ingUnder">Mitarashi sauce</u></li>
+                                                                <li>1. Toss the mirin</li>
+                                                                <li>2. Add soy sauce</li>
+                                                                <li>3. And water, and after the liquid are combined</li>
+                                                                <li>4. And lastly mix the potato starch and sugar before tossing in</li>
+                                                                <li>5. Mix it well in the medium heat</li>
 
                                                             </ul>                                                           
 
@@ -173,10 +163,10 @@
                     <div class="widget-footer">
                         <h4>Discover</h4>
                         <ul>
-                            <li><a href="../index.html">Homepage</a></li>
-                            <li><a href="../about.html">About Us</a></li>
-                            <li><a href="../categories.html">Category</a></li>                            
-                            <li><a href="../favorites.html">Favorites</a></li>
+                            <li><a href="../index.php">Homepage</a></li>
+                            <li><a href="../about.php">About Us</a></li>
+                            <li><a href="../categories.php">Category</a></li>                            
+                            <li><a href="../favorites.php">Favorites</a></li>
                         </ul>
                     </div>
                     <div class="widget-footer">

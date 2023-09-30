@@ -22,9 +22,8 @@
                         <div class="logo"><a href="#">Kyourin</a></div>
                         <div class="menu">
                             <ul>
-                                <li><a href="../index.html">Home</a></li>
-                                <li><a href="../categories.html">Category</a></li>
-                                <li><a href="#">About Us</a></li>
+                                <li><a href="../index.php">Home</a></li>
+                                <li><a href="../categories.php">Category</a></li>
                             </ul>
                         </div>
                     </div>
@@ -50,8 +49,8 @@
 
 
         <main>
-            <!-- ===================CHANGE HERO NUMBER FOR EVERY NEW PAGE============================== -->
-            <div class="hero-2">
+            <!-- ===================CHANGE HERO NUMBER FOR EVERY NEW PAGE AND MUST BE THE SAME AS THE PAGE NUMBER============================== -->
+            <div class="hero-7">
                 <div class="container">
                     <div class="tabbed has-bg">
                         <div class="container">
@@ -74,56 +73,41 @@
                                         <ul>
                                             <li>                                        
                                                 <div class="thumbnail covering">
-                                                    <a class="gal-5" href="../assets/products/garnish3.jpg">                                                
-                                                        <img src="../assets/products/garnish3.jpg" alt="gallery image">                                                                                                     
+                                                    <a class="gal-5" href="assets/products/garnish3.jpg">                                                
+                                                        <img src="assets/products/garnish3.jpg" alt="gallery image">                                                                                                     
                                                     </a>
                                                 </div>
                                                 <div class="meta">                                           
-                                                    <h3>Steamed Red Bean Bun</h3>
-                                                    <h4>Spirited Away</h4>
+                                                    <h3> Howl’s Breakfast</h3>
+                                                    <h4>Howl’s Moving Castle</h4>
+                                                    <h5>By: Sylvia Wakana</h5>
                                                     <div class="price">
                                                         <strong class="current">
-                                                            The Steamed Red Bean Bun was sighted in the best-animated film of all time — Spirited Away. 
-                                                            Chihiro, the protagonist, munched on a mega-sized red bean steamed bun as she gazed into the night. 
-                                                            While it's much easier to buy it from a supermarket, making this pastry from scratch can be pretty fun and satisfying.</strong>
+                                                            Howl’s breakfast consists of eggs, bread, bacon, and cheese which is a typical breakfast for most people 
+                                                            but what made this breakfast so special is how Studio Ghibli made it look aesthetically pleasing in the Anime. 
+</strong>
 
                                                         <div class="ing">                                                        
                                                             
                                                             <ul>
                                                                 <strong class="ingBold">Ingredients:</strong>
-                                                                <li>• 1 cup of red beans</li>
-                                                                <li>• 5 cups of water</li>
-                                                                <li>• 3/4 cup of granulated sugar</li>
-                                                                <li>• 1 tbsp vanilla extract</li>
-                                                                <li>• 4-cups of flour</li>
-                                                                <li>• 1 teaspoon of granulated sugar</li>
-                                                                <li>• 1 tablespoon of instant yeast</li>                                                                
+                                                                <li>• 3 slices thick cut bacon</li>
+                                                                <li>• 4 large eggs</li>                                                                
+                                                                <li>• 1 loaf bread</li>
+                                                                <li>• 1 slab of cheese</li>                                                                                                               
                                                             </ul> 
                                                             <ul>                                                              
-                                                                <li>6. Knead for 10 minutes.</li>
-                                                                <li>7. Place the dough into a bowl and cover with cling wrap. 
-                                                                    Wait for an hour until the dough has risen to twice of its original size.</li>
-                                                                <li>8. Add the cooled red bean compote into a blender. Blend until smooth</li>
-                                                                <li>9. Add more flour on the surface of the dough and knead the dough into balls bigger than your palms.</li>
-                                                                                                            
+                                                                <li><u class="ingUnder">To Cook the Honey Pancakes</u></li>
+                                                                <li>1. Heat a large pan over medium-high heat.</li>
+                                                                <li>2. Add 3 slices of bacon to the pan and cook until crispy. Push them to one side of the pan.</li>
+                                                                <li>3. Reduce the heat to medium. 
+                                                                    Crack 4 eggs directly into the pan next to the bacon. Cook until sunny side up eggs are to your preference.</li>
+                                                                <li>4. Remove the pan from the heat.</li>
+                                                                <li>5. Cut the desired amount off from the loaf of bread.</li>
+                                                                <li>6. Serve the bacon, eggs, bread, and cheese family-style.</li>                                                                                                                                                                               
                                                             </ul>                                                            
-                                                            <ul>
-                                                                <strong class="ingBold">Directions:</strong>
-                                                                <li><u class="ingUnder">Broth and chicken wings</u></li>
-                                                                <li>1. Wash the red beans thoroughly before transferring into a cooker.</li>
-                                                                <li>2. Add in 3 cups of water and cook for 1 hour.</li>
-                                                                <li>3. Add sugar and vanilla extract into the rice cooker. Keep stirring until the water is fully absorbed by the red beans. 
-                                                                    This might take up to 1 hour.</li>
-                                                                <li>4. Set aside and wait for it to cool down.</li>
-                                                                <li>5. Mix flour, 2 cups of lukewarm water, and yeast in an electric mixer until it forms a smooth dough.</li>
-                                                            </ul> 
-                                                            <ul>
-                                                                <li>10. Flatten each ball and place some red bean paste into the middle of the dough. 
-                                                                    Slowly stretch and seal the dough around the red bean paste.</li>
-                                                                <li>11. Leave the dough under a wet towel for 10 minutes.</li>
-                                                                <li>12. Add parchment paper into a steamer and place the buns inside. Steam for about 12 minutes.</li>
-                                                                <li>13. Tum off the heat for 1-2 minutes and the steamed buns are ready.</li>
-                                                            </ul>
+                                                            
+                                                           
                                                         </div>
 
                                                                                                                 
@@ -165,10 +149,10 @@
         <div class="widget-footer">
             <h4>Discover</h4>
             <ul>
-                <li><a href="../index.html">Homepage</a></li>
-                <li><a href="../about.html">About Us</a></li>
-                <li><a href="../categories.html">Category</a></li>                            
-                <li><a href="../favorites.html">Favorites</a></li>
+                <li><a href="../index.php">Homepage</a></li>
+                <li><a href="../about.php">About Us</a></li>
+                <li><a href="../categories.php">Category</a></li>                            
+                <li><a href="../favorites.php">Favorites</a></li>
             </ul>
         </div>
         <div class="widget-footer">
