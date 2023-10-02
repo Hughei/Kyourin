@@ -50,7 +50,7 @@
 
         <main>
             <!-- ===================CHANGE HERO NUMBER FOR EVERY NEW PAGE============================== -->
-            <div class="hero-13">
+            <div class="hero-15">
                 <div class="container">
                     <div class="tabbed has-bg">
                         <div class="container">

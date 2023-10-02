@@ -207,7 +207,7 @@
                                             </div>
                                             <h2><a href="#"></a>Curry “Risotto” Omurice</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-1.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-13.php"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
                                                     <i class="ri-heart-line" id="toggleButton5"></i>                                                    
                                                 </a>    
