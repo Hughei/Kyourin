@@ -93,3 +93,5 @@ var lightbox = new SimpleLightbox('.gal-5 ', { /* options */ });
 var lightbox = new SimpleLightbox('.gal-6 ', { /* options */ });
 
 
+// ================== FOR RATING 
+

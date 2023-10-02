@@ -84,20 +84,18 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Food Wars</a></span> 
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
+                                                <span class="cat"><a href="#">Food Wars</a></span>
                                                 <span class="rating">
                                                     <i class="ri-star-fill"></i>
                                                     <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                           
+                                                </span>                                                    
                                             </div>
                                             
                                             <h2><a href="#"></a>Furikake Rice</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-1.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-1.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton1"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton1" dishName="Furikake Rice"></i>                                                    
                                                 </a>                                            
                                           </div>
                                         </div>
@@ -113,19 +111,14 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Howl’s Moving Castle</a></span>  
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                               
+                                                <span class="cat"><a href="#">Howl’s Moving Castle</a></span>
+                                                                                                
                                             </div>
                                             <h2><a href="#"></a>Howl’s Breakfast</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-7.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-7.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton2"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton2" dishName="Howl’s Breakfast"></i>                                                    
                                                 </a>            
                                             </div>
                                         </div>
@@ -141,19 +134,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Yuri!!! on ICE</a></span>
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                                 
+                                                <span class="cat"><a href="#">Yuri!!! on ICE</a></span>                                                
                                             </div>
                                             <h2><a href="#"></a>Pork Katsudon</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-9.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-9.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton3"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton3" dishName="Pork Katsudon"></i>                                                    
                                                 </a>    
                                             </div>
                                         </div>
@@ -169,19 +156,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Beastars </a></span>
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                               
+                                                <span class="cat"><a href="#">Beastars </a></span>                                                
                                             </div>
                                             <h2><a href="#"></a>Yakisoba</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-12.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-12.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton4"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton4" dishName="Yakisoba"></i>                                                    
                                                 </a>    
                                             </div>
                                         </div>
@@ -197,19 +178,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">Food Wars</a></span> 
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                                
+                                                <span class="cat"><a href="#">Food Wars</a></span>                                                
                                             </div>
                                             <h2><a href="#"></a>Curry “Risotto” Omurice</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-13.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-1.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton5"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton5" dishName="Curry “Risotto” Omurice"></i>                                                    
                                                 </a>    
                                             </div>
                                         </div>
@@ -225,19 +200,13 @@
                                         </div>
                                         <div class="meta">
                                             <div class="caterate">
-                                                <span class="cat"><a href="#">One Piece</a></span> 
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->                                                
+                                                <span class="cat"><a href="#">One Piece</a></span>                                                
                                             </div>
                                             <h2><a href="#"></a> Chicken Drumsticks</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-1.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-1.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton6"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton6" dishName="Chicken Drumsticks"></i>                                                    
                                                 </a>     
                                             </div>
                                         </div>
@@ -262,18 +231,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Ponyo</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Ham Ramen</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-3.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-3.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton7"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton7" dishName="Ham Ramen"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -289,18 +252,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Ichiraku Ramen</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Ichiraku Ramen</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-4.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-4.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton8"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton8" dishName="Ichiraku Ramen"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -317,18 +274,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Dr. stone</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Foxtail Millet Ramen</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-3.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-3.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton9"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton9" dishName="Foxtail Millet Ramen"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -353,18 +304,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Spirited Away</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Steamed Red Bean Bun</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-2.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-2.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton10"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton10" dishName="Steamed Red Bean Bun"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -381,18 +326,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Demon Slayer</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Sakura Mochi</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-5.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-5.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton11"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton11" dishName="Sakura Mochi"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -409,18 +348,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Doraemon</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Dorayaki</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-6.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-6.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton12"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton12" dishName="Dorayaki"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -437,18 +370,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Black Butler</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Chocolate Curry Buns</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-8.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-8.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton13"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton13" dishName="Chocolate Curry Buns"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -465,18 +392,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Charlotte</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Katsu Sandwich</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-10.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-10.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton14"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton14" dishName="Katsu Sandwich"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -493,18 +414,12 @@
                                         <div class="meta">
                                             <div class="caterate">
                                                 <span class="cat"><a href="#">Demon Slayer</a></span>                                                
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ -->
-                                                <span class="rating">
-                                                    <i class="ri-star-fill"></i>
-                                                    <span>4.9</span>
-                                                </span>    
-<!-- ============================================ITO YUNG PART NAPAPALITAN FOR RATING============================================ --> 
                                             </div>
                                             <h2><a href="#"></a>Mitarashi dango</h2>                                            
                                             <div class="buttons">
-                                                <a href="recipes/food-11.php"><button class="catBtn">View Recipe</button></a>
+                                                <a href="recipes/food-11.html"><button class="catBtn">View Recipe</button></a>
                                                 <a class="like">
-                                                    <i class="ri-heart-line" id="toggleButton15"></i>                                                    
+                                                    <i class="ri-heart-line addFav" id="toggleButton15" dishName="Mitarashi dango"></i>                                                    
                                                 </a>
                                             </div>
                                         </div>
@@ -545,10 +460,10 @@
                     <div class="widget-footer">
                         <h4>Discover</h4>
                         <ul>
-                            <li><a href="../index.php">Homepage</a></li>
-                            <li><a href="../about.php">About Us</a></li>
-                            <li><a href="../categories.php">Category</a></li>                            
-                            <li><a href="../favorites.php">Favorites</a></li>
+                            <li><a href="../index.html">Homepage</a></li>
+                            <li><a href="../about.html">About Us</a></li>
+                            <li><a href="../categories.html">Category</a></li>                            
+                            <li><a href="../favorites.html">Favorites</a></li>
                         </ul>
                     </div>
                     <div class="widget-footer">
@@ -575,5 +490,31 @@
     <script src="simplelightbox-master/dist/simple-lightbox.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
     <script src="script.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    <script>
+        $(document).ready(function() {
+            $(document).on('click', '.addFav', function(e) {
+                // alert($(this).attr('dishName'));
+                dishName = $(this).attr('dishName');
+                $.ajax({
+                    type: "POST",
+                    url: "Dishes.php",
+                    data: {
+                        "action": "addToFavorites",
+                        "id": $(this).attr('id'),
+                        "name": $(this).attr('dishName')
+                    },
+                    success: function (resp) {
+                        if(resp == 'added') {
+                            alert(dishName + " Successfully added to favorites!");
+                        } else {
+                            alert(dishName + " Successfully removed from favorites!");
+                        }
+                    }
+                });
+            });
+        });
+    </script>
 </body>
 </html>

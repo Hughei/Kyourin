@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE-edge">
+    <title>Food Website</title>
+    <link rel="stylesheet" href="../style.css">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css"
+/>
+<link rel="stylesheet" href="simplelightbox-master/dist/simple-lightbox.css">
+
+</head>
+
+
+<body>
+    <div id="page" class="site">
+        <header>
+            <div class="container">
+                <nav>
+                    <div class="left">
+                        <div class="logo"><a href="#">Kyourin</a></div>
+                        <div class="menu">
+                            <ul>
+                                <li><a href="../index.php">Home</a></li>
+                                <li><a href="../categories.php">Category</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="right">
+                        <div class="icons">
+                            <a href="#" class="s-trigger">
+                                <i class="ri-search-line"></i>
+                                <i class="ri-close-line"></i>
+                            </a>
+                            <a href="#" class="m-trigger mobile-only">
+                                <i class="ri-menu-line"></i>
+                            </a>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+            <form action="" class="search">
+                <div class="container">
+                    <input type="search" placeholder="Seart to eat...">
+                </div>
+            </form>
+        </header>
+
+        <div class="heroReg">
+            <div class="form-box">
+                <div class="button-box">
+                    <div id="btn"></div>
+                    <button type="button" class="toggle-btn" onclick="login()"> Log In </button>
+                    <button type="button" class="toggle-btn" onclick="register()"> Register </button>
+                </div>
+
+                <form id="login" class="input-group">
+                    <input type="text" class="input-field" placeholder="User Id" required>
+                    <input type="text" class="input-field" placeholder="Enter Password" required>
+                    <input type="checkbox" class="check-box"><span> Remember Password</span>
+                   
+                    <button type="submit" class="submit-btn"> Forgot password </button>
+                </form>
+
+                <form id="register" class="input-group">
+                    <input type="text" class="input-field" placeholder="User Id" required>
+                    <input type="email" class="input-field" placeholder="Email Id" required>
+                    <input type="text" class="input-field" placeholder="Enter Password" required>
+                    <input type="checkbox" class="check-box"><span> I agree to the terms & condistions</span>
+                    <button type="submit" class="submit-btn"> Register </button>
+                </form>
+            </div>
+        </div>
+
+    
+           
+<!-- ======================================================FOOTER=============================================================== -->
+            
+<div class="formblog has-bg">
+    <div class="bg-primary2"></div>
+    <div class="container">
+        <div class="head-brief">
+           
+        </div>
+        
+    </div>
+</div>
+           
+        </main>
+        
+    </div>
+    <div class="overlay"></div>
+    <script src="register.js"></script>
+    <script src="simplelightbox-master/dist/simple-lightbox.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+    <script src="../recipes/script.js"></script>
+</body>
+</html>

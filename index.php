@@ -24,6 +24,7 @@
                                 <li><a href="index.php">Home</a></li>
                                 <li><a href="categories.php">Category</a></li>
                                 <li><a href="favorites.php">Favorites</a></li>
+                                <li><a href="Login/register.php">Login</a></li>
                             </ul>
                         </div>
                     </div>

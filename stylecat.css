@@ -807,6 +807,23 @@ TABBED PRODUCTS
     border-radius: 50%;
 }
 
+/* ========================================RATING===================================== */
+/* Add this CSS to style the stars initially as gray */
+.rate .star {
+    color: gray;
+    cursor: pointer;
+}
+
+/* Add this CSS to change the star color on hover */
+.rate .star:hover {
+    color: gold; /* or any other color you prefer */
+}
+
+/* Add this CSS to change the color of active stars */
+.rate .star.active,
+.rate .star.active ~ .star {
+    color: gold; /* or any other color you prefer */
+}
 /*
 --------------------------------------------------------------------------------------------------
 FOR OUTLINES AND EFFECTS ON THE ITEMS FROM THE LOWEST PART OF THE MAIN PAGE
